@@ -1,7 +1,7 @@
 ---
 layout: post
+title:  "Welcome to introduction post!"
 ---
-## Introduction Post
 
 Hi reader,
 
