@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title: Welcome to introduction post!
-author: Maida Asic-Taletovic
+author: Maida Asic
 ---
 
 Hi reader,
