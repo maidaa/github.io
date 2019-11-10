@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome to introduction post!
+author: Maida Asic-Taletovic
 ---
 
 Hi reader,
