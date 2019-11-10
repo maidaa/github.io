@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Welcome to introduction post!"
+title: Welcome to introduction post!
 ---
 
 Hi reader,
